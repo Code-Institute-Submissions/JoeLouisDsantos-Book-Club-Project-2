@@ -4,6 +4,10 @@ body {
     background-color: rgb(231, 149, 149)!important;
 }
 
+h1 {
+    color: maroon!important;
+}
+
 /*------Home Page Cards------*/
 
 .carousel-item img {
@@ -13,4 +17,9 @@ body {
 .card {
     background-color: maroon!important;
     color: white;
+}
+
+/*------Google Maps------*/
+div #map {
+    min-height: 360px;
 }
