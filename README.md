@@ -30,17 +30,17 @@ This is a website for a book club who is looking for more people to join them. I
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - <img src="/assets/images/homewireframe.jpg">
+    -   Home Page Wireframe - <img src="./wireframes/homewireframe.jpg">
 
-    -   Location Page Wireframe - <img src="/assets/images/locationwire.jpg">
+    -   Location Page Wireframe - <img src="./wireframes/locationwire.jpg">
 
-    -   Contact Page Wireframe - <img src="/assets/images/contactwireframe.jpg">
+    -   Contact Page Wireframe - <img src="./wireframes/contactwireframe.jpg">
 
-    -   Mobile Home Wireframe - <img src="/assets/images/mobilehomewf.jpg">
+    -   Mobile Home Wireframe - <img src="./wireframes/mobilehomewf.jpg">
 
-    -   Mobile Location Wireframe - <img src="/assets/images/mobilemapwf.jpg">
+    -   Mobile Location Wireframe - <img src="./wireframes/mobilemapwf.jpg">
 
-    -   Mobile Contact Wireframe - <img src="/assets/images/mobilecontactwf.jpg">
+    -   Mobile Contact Wireframe - <img src="./wireframes/mobilecontactwf.jpg">
 
 ## Features
 
